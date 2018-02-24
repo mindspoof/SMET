@@ -1,0 +1,8 @@
+c:\users\skywiper\documents\visual studio 2015\Projects\SMET\SMET\obj\Debug\SMET.csprojResolveAssemblyReference.cache
+c:\users\skywiper\documents\visual studio 2015\Projects\SMET\SMET\obj\Debug\SMET.MainForm.resources
+c:\users\skywiper\documents\visual studio 2015\Projects\SMET\SMET\obj\Debug\SMET.Properties.Resources.resources
+c:\users\skywiper\documents\visual studio 2015\Projects\SMET\SMET\obj\Debug\SMET.csproj.GenerateResource.Cache
+c:\users\skywiper\documents\visual studio 2015\Projects\SMET\SMET\bin\Debug\SMET.exe
+c:\users\skywiper\documents\visual studio 2015\Projects\SMET\SMET\bin\Debug\SMET.pdb
+c:\users\skywiper\documents\visual studio 2015\Projects\SMET\SMET\obj\Debug\SMET.exe
+c:\users\skywiper\documents\visual studio 2015\Projects\SMET\SMET\obj\Debug\SMET.pdb
